@@ -1,12 +1,10 @@
 ## Hi there 👋
 
-<!--
+Welcome to the Capgemini Korea Public GitHub teamspace!
 
-**Here are some ideas to get you started:**
+Our organization is dedicated to providing innovative solutions and services that drive digital transformation and business growth. We collaborate on various projects and repositories to share our knowledge and expertise with the community.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Contribution Guidelines
+We welcome contributions from the community!
+
+Join us in our journey to achieve great things together with the power of open source and collaboration!
